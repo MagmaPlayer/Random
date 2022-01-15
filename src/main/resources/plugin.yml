@@ -1,0 +1,12 @@
+name: Random
+version: '${project.version}'
+main: fr.random.nk.Random
+api-version: 1.17
+commands:
+  Hallo:
+  do:
+    aliases: ["do one","do two"]
+  secop:
+  secdeop:
+  fly:
+  witz:
